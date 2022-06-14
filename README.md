@@ -12,8 +12,9 @@ You can only check how many bitcoins a wallet has.
 
 # How to use
 
-![sitentitled](https://user-images.githubusercontent.com/64327510/173556908-90a33bc8-d6f3-4243-bd52-aa62ff4c17b8.png)
+<img hight="300" width="300" alt="GIF" align="center" src="https://user-images.githubusercontent.com/64327510/173556908-90a33bc8-d6f3-4243-bd52-aa62ff4c17b8.png">
 
-Enter Wallet Address And Hit Enter
+
+<h3>Enter Wallet Address And Hit Enter</h1>
 
 
