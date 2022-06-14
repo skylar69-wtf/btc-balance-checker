@@ -1,4 +1,2 @@
-# btc-balance-checker
-GRAB ANY ONE BITCOIN WALLET BALANCE WITH THIER WALLET ADDRESS
+# Check Bitcoin Wallet Tranctions
 
-RUN IN SAND BOX OR VM
